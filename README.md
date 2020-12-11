@@ -1,6 +1,5 @@
 # BS-template-Looper
 
-A boostrap template/site example, though does not include server side functionality
-this is just the ui aspects
+A boostrap template/site example, this is a static page and lacks server functionality
 
 https://courtneyd2.github.io/BS-template-Looper/
